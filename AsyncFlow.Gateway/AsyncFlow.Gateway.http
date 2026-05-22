@@ -1,0 +1,6 @@
+@AsyncFlow.Gateway_HostAddress = http://localhost:5271
+
+GET {{AsyncFlow.Gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
