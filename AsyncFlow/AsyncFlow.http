@@ -1,0 +1,6 @@
+@AsyncFlow_HostAddress = http://localhost:5197
+
+GET {{AsyncFlow_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
